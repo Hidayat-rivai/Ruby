@@ -18,4 +18,4 @@ This is Hello World Application. there are two ways to run ruby program
 ## Application
  0. [ Hello Ruby ](https://github.com/Hidayat-rivai/ruby)
  1. [ Block ](https://github.com/Hidayat-rivai/ruby_blok)
- 2. [ Block ](https://github.com/Hidayat-rivai/ruby_begin_end)
+ 2. [ Block Initialization and Finalization ](https://github.com/Hidayat-rivai/ruby_begin_end)
