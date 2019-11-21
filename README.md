@@ -21,4 +21,4 @@ This is Hello World Application. there are two ways to run ruby program
  2. [ Block Initialization and Finalization ](https://github.com/Hidayat-rivai/ruby_begin_end)
  3. [ Write ](https://github.com/Hidayat-rivai/ruby_write)
  4. [ Read ](https://github.com/Hidayat-rivai/ruby_read)
- 5. [ Variable as Refference ](https://github.com/Hidayat-rivai/ruby_variable)
+ 5. [ Variable as Reference ](https://github.com/Hidayat-rivai/ruby_variable)
