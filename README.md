@@ -1,11 +1,7 @@
 # Ruby
 
 ## Description
-These are a some of applications I made to study Ruby. 
-
-I started to learn Ruby in 2019 from a book.
-
-These are spesification i use to learn ruby language.
+These are a some of applications I made to study Ruby. I started to learn Ruby in 2019 from a book. These are spesification i use to learn ruby language.
 
 This is Hello World Application. there are two ways to run ruby program
   1. Open Command Prompt
