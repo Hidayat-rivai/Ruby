@@ -30,3 +30,4 @@ This is Hello World Application. there are two ways to run ruby program
  11. [ Variable Rational ](https://github.com/Hidayat-rivai/ruby_rational)
  12. [ Variable String ](https://github.com/Hidayat-rivai/ruby_string)
  13. [ Escape Sequence ](https://github.com/Hidayat-rivai/ruby_escape_sequence)
+ 14. [ String Manipulation ](https://github.com/Hidayat-rivai/manipulasi_string)
