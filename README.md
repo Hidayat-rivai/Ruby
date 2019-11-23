@@ -27,3 +27,4 @@ This is Hello World Application. there are two ways to run ruby program
  8. [ Variable Float ](https://github.com/Hidayat-rivai/ruby_float)
  9. [ Variable BigDecimal ](https://github.com/Hidayat-rivai/ruby_bigdecimal)
  10. [ Variable Complex ](https://github.com/Hidayat-rivai/ruby_complex)
+ 11. [ Variable Rational ](https://github.com/Hidayat-rivai/ruby_rational)
