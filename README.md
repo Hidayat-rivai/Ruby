@@ -24,3 +24,4 @@ This is Hello World Application. there are two ways to run ruby program
  5. [ Variable as Reference ](https://github.com/Hidayat-rivai/ruby_variable)
  6. [ Variable Type ](https://github.com/Hidayat-rivai/ruby_variable_type)
  7. [ Variable Integer ](https://github.com/Hidayat-rivai/ruby_integer)
+ 7. [ Variable Float ](https://github.com/Hidayat-rivai/ruby_float)
