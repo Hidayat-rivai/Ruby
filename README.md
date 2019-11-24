@@ -33,3 +33,4 @@ This is Hello World Application. there are two ways to run ruby program
  14. [ String Manipulation ](https://github.com/Hidayat-rivai/manipulasi_string)
  15. [ True and False ](https://github.com/Hidayat-rivai/true_false)
  16. [ Range ](https://github.com/Hidayat-rivai/range)
+ 17. [ Array ](https://github.com/Hidayat-rivai/ruby_array)
