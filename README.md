@@ -36,3 +36,4 @@ This is Hello World Application. there are two ways to run ruby program
  17. [ Array ](https://github.com/Hidayat-rivai/ruby_array)
  18. [ Hash ](https://github.com/Hidayat-rivai/ruby_hash)
  18. [ Symbol ](https://github.com/Hidayat-rivai/ruby_symbol)
+ 18. [ NilClass ](https://github.com/Hidayat-rivai/ruby_nilclass)
