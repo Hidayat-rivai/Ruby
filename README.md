@@ -37,4 +37,5 @@ This is Hello World Application. there are two ways to run ruby program
  18. [ Hash ](https://github.com/Hidayat-rivai/ruby_hash)
  19. [ Symbol ](https://github.com/Hidayat-rivai/ruby_symbol)
  20. [ NilClass ](https://github.com/Hidayat-rivai/ruby_nilclass)
- 21. [ Short Assignment ](https://github.com/Hidayat-rivai/ruby_short_assignment)
+ 21. [ Short Assignment Operator](https://github.com/Hidayat-rivai/ruby_short_assignment)
+ 22. [ Arithmatic Operator](https://github.com/Hidayat-rivai/ruby_arithmatic)
