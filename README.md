@@ -41,3 +41,4 @@ This is Hello World Application. there are two ways to run ruby program
  22. [ Arithmatic Operator](https://github.com/Hidayat-rivai/ruby_arithmatic)
  23. [ Relational Operator](https://github.com/Hidayat-rivai/ruby_relational)
  24. [ Logic Operator](https://github.com/Hidayat-rivai/ruby_logic)
+ 24. [ Bitwise Operator](https://github.com/Hidayat-rivai/ruby_bitwise)
