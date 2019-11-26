@@ -45,3 +45,4 @@ This is Hello World Application. there are two ways to run ruby program
  26. [ Membership Operator](https://github.com/Hidayat-rivai/ruby_membership)
  27. [ Identity Operator](https://github.com/Hidayat-rivai/ruby_identity)
  28. [ String Operator](https://github.com/Hidayat-rivai/ruby_string_operator)
+ 29. [ Ternary Operator](https://github.com/Hidayat-rivai/ruby_ternary)
